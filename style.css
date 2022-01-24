@@ -27,17 +27,3 @@ body {
 footer {
   background-color: rgb(57, 53, 102);
 }
-
-/* media query start  */
-
-@media (min-width: 320px) and (max-width: 575px) {
-  .accordion {
-    text-align: justify;
-  }
-  .extra_pic {
-    width: 150px;
-  }
-  footer {
-    display: block;
-  }
-}
