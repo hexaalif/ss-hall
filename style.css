@@ -7,3 +7,14 @@ body {
 .carousel-item img {
   height: 500px;
 }
+.price_btn {
+  color: rgb(105, 100, 94);
+  border-radius: 30px;
+}
+.card {
+  border-radius: 20px;
+  position: relative;
+}
+footer {
+  background-color: rgb(57, 53, 102);
+}
